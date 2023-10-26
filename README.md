@@ -1,1 +1,2 @@
-# EEG-Emotion-Classification
+Studying...
+Maybe there will be many mistakes.
